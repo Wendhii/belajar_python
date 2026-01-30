@@ -1,1 +1,1 @@
-# belajar_python
+belajar python bersama AI
