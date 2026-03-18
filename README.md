@@ -5,4 +5,4 @@ Koleksi latihan koding Python.
 
 ### 📂 Isi Repository:
 - **01-latihan-dasar**: Variabel, If-Else, dan Looping sederhana.
-- **02-studi-kasus**: Implementasi List dan Logika Membership.
+- **02-studi-kasus**: Implementasi materi pembelajaran.
