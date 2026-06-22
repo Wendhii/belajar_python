@@ -1,0 +1,28 @@
+===================================
+Nama Pembeli: wendy
+Jenis Tiket : Festival
+Jumlah      : 2
+Sisa Kuota  : 1
+total bayar : 1000000
+===================================
+===================================
+Nama Pembeli: Siti
+Jenis Tiket : VIP
+Jumlah      : 2
+Sisa Kuota  : 8
+total bayar : 3200000
+===================================
+===================================
+Nama Pembeli: wendy
+Jenis Tiket : Festival
+Jumlah      : 2
+Sisa Kuota  : 1
+total bayar : 1000000
+===================================
+===================================
+Nama Pembeli: Siti
+Jenis Tiket : VIP
+Jumlah      : 2
+Sisa Kuota  : 8
+total bayar : 3200000
+===================================
